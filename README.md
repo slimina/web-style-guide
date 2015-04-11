@@ -1,3 +1,3 @@
-[原文: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+[CSS 规范: https://github.com/slimina/web-style-guide/blob/master/CSS%20Style%20Guide.md](https://github.com/slimina/web-style-guide/blob/master/CSS%20Style%20Guide.md)
 
-[复制: https://github.com/adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide)
+[JavaScript 规范: https://github.com/slimina/web-style-guide/blob/master/Javascritp%20Style%20Guide.md](https://github.com/slimina/web-style-guide/blob/master/Javascritp%20Style%20Guide.md)
